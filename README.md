@@ -7,6 +7,7 @@ The test should meet the following criteria
 * The test should be readable by a non-technical person
 * The test should not compile
 * The test should be able to be easily implemented without changing the test
+* The test should pave the way for the coming tests
 
 ## Problem 1 (Example)
 
